@@ -1,0 +1,3 @@
+-- my portfolio
+-- add django
+-- base with simple html,css,javascripts
